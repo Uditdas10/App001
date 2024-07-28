@@ -1,0 +1,22 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "First react application",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uditdas10/REACT_JS.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Udit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uditdas10/REACT_JS/issues"
+  },
+  "homepage": "https://github.com/Uditdas10/REACT_JS#readme"
+}
